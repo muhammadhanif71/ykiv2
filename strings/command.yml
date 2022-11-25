@@ -34,7 +34,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist"]
 # Tools
 QUEUE_COMMAND : ["queue","cqueue", "player", "cplayer", "playing", "cplaying"]
 SONG_COMMAND : ["song", "video"]
-LYRICS_COMMAND : ["lyrics"]
+LYRICS_COMMAND : ["lirik"]
 
 
 # Admin Commands
@@ -103,8 +103,8 @@ BLOCKED_COMMAND : ["blockedusers"]
 SPEEDTEST_COMMAND : ["speedtest"]
 
 #Voice chat commands
-ACTIVEVC_COMMAND : ["vcs"]
-ACTIVEVIDEO_COMMAND : ["vcv"]
+ACTIVEVC_COMMAND : ["audio"]
+ACTIVEVIDEO_COMMAND : ["video"]
 
 #Gban Commands
 GBAN_COMMAND : ["mgban"]
