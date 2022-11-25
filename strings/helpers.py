@@ -66,7 +66,7 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 /sudolist - Periksa Pengguna Sudo dari Bot Musik Yukki
 
-/lyrics [Music Name] - Mencari Lirik untuk Musik tertentu di web.
+/lirik [Music Name] - Mencari Lirik untuk Musik tertentu di web.
 
 /song [Nama Trek] atau [Tautan YT] - Unduh trek apa pun dari youtube dalam format mp3 atau mp4.
 
@@ -79,7 +79,7 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 HELP_4 = """✅<u>**Extra  Commands:**</u>
 /start - Mulai Bot Musik.
 /mhelp - Dapatkan Menu Helper Perintah dengan penjelasan rinci tentang perintah.
-/mping- Ping Bot dan periksa statistik Ram, Cpu, dll dari Bot.
+/pong- Ping Bot dan periksa statistik Ram, Cpu, dll dari Bot.
 
 ✅<u>**Group Settings:**</u>
 /msettings - Dapatkan pengaturan grup lengkap dengan tombol sebaris
@@ -130,8 +130,8 @@ PERINTAH BOT:
 /autoend [enable|disable] - Aktifkan Auto stream end setelah 3 menit jika tidak ada yang mendengarkan.
 
 📈**<u>STATS COMMANDS:</u>**
-/vcs - Periksa obrolan suara aktif di bot.
-/vcv - Periksa panggilan video aktif di bot.
+/audio - Periksa obrolan suara aktif di bot.
+/video - Periksa panggilan video aktif di bot.
 /stats - Periksa Statistik Bot
 
 ⚠️**<u>BLACKLIST CHAT FUNCTION:</u>**
